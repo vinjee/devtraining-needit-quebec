@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>Graph</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 12:19:52</sys_created_on>
+        <sys_id>0e9e1c6f2fa170107309d5f62799b6ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Graph</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_template_0e9e1c6f2fa170107309d5f62799b6ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 12:19:52</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <template>active=true^opened_at=2021-07-30 05:16:57^opened_by=6816f79cc0a8016401c5a33be04be441^priority=4^short_description=Request for graph ^state=13^u_request_type=legal^u_requested_for=^u_requested_for_email=^u_what_needed=legal1^u_when_needed=2021-08-04 05:17:23^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>
